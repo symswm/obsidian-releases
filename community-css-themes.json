@@ -1,5 +1,12 @@
 [
   {
+    "name": "Elegant",
+    "author": "Miguel",
+    "repo": "symswm/Elegant",
+    "screenshot": "thumbnail.jpg",
+    "modes": ["dark"]
+  },
+  {
     "name": "Atom",
     "author": "kognise",
     "repo": "kognise/obsidian-atom",
